@@ -3,6 +3,8 @@ phases:
   install:
     runtime-versions:
       java: corretto8
+      golang: 1.13
+      nodejs: 10
 
 
 phases:
